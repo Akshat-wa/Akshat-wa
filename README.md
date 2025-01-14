@@ -1,16 +1,37 @@
-## Hi there 👋
+<h1 align="center"> Hi there 👋, I am Akshat Wadhera </h1>
 
-<!--
-**Akshat-wa/Akshat-wa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+    <a href=""><img alt="Gmail" src="https://img.shields.io/badge/Email-Contact-indigo?logo=gmail&style=social" /></a>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+    <a href="" style="text-decoration: none;">
+        🕸️ <strong>Personal Website</strong>
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Quick Facts</h3>
+<ul>
+    <li>🔭 I am a passionate cheetah.</li>
+    <li>🕸️ Check out my <a href="">Cardd</a>.</li>
+</ul>
+
+<h3 align="center">GitHub Stats</h3>
+<p align="center">
+    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Akshat-wa&theme=dracula">
+</p>
+<p align="center">
+    <img alt="Top Languages by Repositories" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Akshat-wa&theme=dracula">
+    <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Akshat-wa&theme=dracula">
+</p>
+<p align="center">
+    <img alt="User Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshat-wa&theme=dracula">
+    <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshat-wa&theme=dracula">
+</p>
+
+<h3 align="center">My Holopin Badges</h3>
+<p align="center">
+    <a href="">
+        <img alt="Holopin Badges" src="">
+    </a>
+</p>
