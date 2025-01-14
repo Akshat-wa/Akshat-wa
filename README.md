@@ -12,7 +12,7 @@
 
 <h3 align="center">Quick Facts</h3>
 <ul>
-    <li>🔭 I am a passionate cheetah.</li>
+    <li>🔭 I am a passionate student of akshat intelligence.</li>
     <li>🕸️ Check out my <a href="">Cardd</a>.</li>
 </ul>
 
