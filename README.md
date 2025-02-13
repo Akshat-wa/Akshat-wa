@@ -6,7 +6,6 @@
 
 <p align="center">
     <a href="" style="text-decoration: none;">
-        🕸️ <strong>Personal Website</strong>
     </a>
 </p>
 
