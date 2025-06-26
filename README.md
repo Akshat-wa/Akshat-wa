@@ -24,6 +24,21 @@
 
 ---
 
+<h3 align="center">🧮 LeetCode Stats</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Akshat_W?ext=contest&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+<h3 align="center">🏆 Codeforces Stats</h3>
+
+<p align="center">
+  <a href="https://codeforces.com/profile/akshatwadhera">
+    <img src="https://cf.leed.at?id=akshat_wadhera" alt="Codeforces Rating Badge" />
+  </a>
+</p>
+---
 <h3 align="center">📊 GitHub Stats</h3>
 
 <p align="center">
@@ -36,14 +51,6 @@
 <p align="center">
   <img alt="User Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Akshat-wa&theme=dracula" />
   <img alt="Productive Time" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshat-wa&theme=dracula" />
-</p>
-
----
-
-<h3 align="center">🧮 LeetCode Stats</h3>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Akshat_W?ext=contest&theme=dark" alt="LeetCode Stats" />
 </p>
 
 ---
