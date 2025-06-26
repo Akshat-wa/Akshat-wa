@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Akshat Wadhera</h1>
 
 <p align="center">
-  <a href="mailto:akshatwadhera03@email.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-akshatwadhera@email.com-red?logo=gmail&style=flat-square" /></a>
+  <a href="mailto:akshatwadhera03@email.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-akshatwadhera03@email.com-red?logo=gmail&style=flat-square" /></a>
   <a href="tel:+919871600656">
   <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B91%209871600656-green?logo=googlevoice&style=flat-square" />
 </a>
