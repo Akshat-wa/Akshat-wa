@@ -12,7 +12,22 @@
 
 ---
 
-<h3 align="center">🚀 Quick Facts</h3>
+<h3>Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  <a href="https://leetcode.com/your_leetcode_username/" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3521542-2944960.png" alt="LeetCode" width="40" height="40"/>
+  </a>
+</p>
+
+
+
+<h3 align="center">About me</h3>
 
 <ul>
   <li>🎓 Computer Science Student</li>
