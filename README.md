@@ -17,7 +17,7 @@
 
 <ul>
   <li>🎓 Computer Science Student</li>
-  <li>💡 Interests: Machine Learning, SQL, Operating Systems, OOPs, Computer Networks</li>
+  <li>💡 Interests: Machine Learning, Artificial Intelligence, Natural Language Processing ,Gen Ai SQL, Operating Systems, OOPs, Computer Networks</li>
   <li>💻 Actively solving problems on LeetCode and Codeforces</li>
   <li>📂 Building open-source ML tools and system-level utilities</li>
 </ul>
