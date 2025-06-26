@@ -40,6 +40,14 @@
 
 ---
 
+<h3 align="center">🧮 LeetCode Stats</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Akshat_W?ext=contest&theme=dark" alt="LeetCode Stats" />
+</p>
+
+---
+
 <h3 align="center">🏅 My Holopin Badges</h3>
 <p align="center">
   <a href="https://holopin.io/@akshatwadhera">
