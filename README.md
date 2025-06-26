@@ -3,8 +3,8 @@
 <p align="center">
   <a href="mailto:akshatwadhera03@email.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-akshatwadhera@email.com-red?logo=gmail&style=flat-square" /></a>
   <a href="tel:+91 9871600656">
-  <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B911234567890-green?logo=googlevoice&style=flat-square" />
-</a>
+  <img alt="Phone" src="https://img.shields.io/badge/Phone-%2B911234567890-green?logo=googlevoice&style=flat-square&cacheBuster=2" />
+  </a>
   <a href="https://www.linkedin.com/in/akshat-wadhera-84942a23b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-akshatwadhera-blue?logo=linkedin&style=flat-square" /></a>
   <a href="https://akshatwadhera.github.io" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-orange?style=flat-square&logo=githubpages" /></a>
   <a href="https://leetcode.com/u/Akshat_W/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat-square" /></a>
