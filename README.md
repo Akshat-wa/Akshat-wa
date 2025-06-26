@@ -34,10 +34,9 @@
 <h3 align="center">🏆 Codeforces Stats</h3>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/akshatwadhera">
-    <img src="https://cf.leed.at?id=akshat_wadhera" alt="Codeforces Rating Badge" />
-  </a>
+  <img src="https://cf.leed.at?id=akshatwadhera" alt="Codeforces Rating" />
 </p>
+
 ---
 <h3 align="center">📊 GitHub Stats</h3>
 
