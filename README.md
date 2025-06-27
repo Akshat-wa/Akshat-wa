@@ -8,8 +8,8 @@
   <a href="https://www.linkedin.com/in/akshat-wadhera-84942a23b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-akshatwadhera-blue?logo=linkedin&style=flat-square" /></a>
   <a href="https://leetcode.com/u/Akshat_W/" target="_blank"><img alt="LeetCode" src="https://img.shields.io/badge/LeetCode-Profile-orange?logo=leetcode&style=flat-square" /></a>
   <a href="https://codeforces.com/profile/akshatwadhera" target="_blank"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-Handle-blue?logo=codeforces&style=flat-square" /></a>
+  <a href="https://drive.google.com/file/d/1AMy6cksnQx7dMX9amA4O8LWcB9FKV5jZ/view" target="_blank"><img alt="Resume" src="https://img.shields.io/badge/Resume-View-blue?logo=google-drive&style=flat-square" /></a>
 </p>
-
 ---
 
 <h3>Languages and Tools:</h3>
